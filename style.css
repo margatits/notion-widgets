@@ -9,10 +9,7 @@ body {
   align-items: center;
   justify-content: center;
   font-family: 'Helvetica', sans-serif;
-}
-
-.widget {
-  width: 280px;
+   width: 280px;
   height: 120px;
   display: flex;
   flex-direction: column;
