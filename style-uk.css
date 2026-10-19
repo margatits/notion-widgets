@@ -24,7 +24,7 @@ body {
   text-decoration: none;
 }
 
-#London_z716, p {
+#London_z716 {
   font-size: min(16vw, 45vh);
   font-weight: 600;
   line-height: 1.3;
