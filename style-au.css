@@ -25,10 +25,9 @@ body {
 }
 
 #Sydney_z60b {
-  font-size: min(16vw, 45vh);
+  font-size: min(8vw, 20vh);
   font-weight: 600;
-  line-height: 1.1;
-  white-space: nowrap;
+  line-height: 1.3;
   display: block;
   width: 100%;
   text-align: center;
